@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AbstractFactory2.Interfaces
+{
+    public interface IConnection
+    {
+        void Connect();
+        void Disconnect();
+    }
+}
