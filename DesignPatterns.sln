@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{616F31D5-8B91-4052-A31E-9E4A2A472436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{BCE13FCF-C275-44C7-9A52-D235EC80E621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{BCE13FCF-C275-44C7-9A52-D235EC80E621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{897996BF-9F97-4E01-A90D-FB76A064999A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{BCE13FCF-C275-44C7-9A52-D235EC80E621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE13FCF-C275-44C7-9A52-D235EC80E621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE13FCF-C275-44C7-9A52-D235EC80E621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897996BF-9F97-4E01-A90D-FB76A064999A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897996BF-9F97-4E01-A90D-FB76A064999A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897996BF-9F97-4E01-A90D-FB76A064999A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897996BF-9F97-4E01-A90D-FB76A064999A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
